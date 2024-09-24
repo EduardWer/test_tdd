@@ -1,0 +1,11 @@
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\bin\Debug\TDD_StringChecker.Test.dll
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\bin\Debug\TDD_StringChecker.Test.pdb
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\bin\Debug\nunit.framework.dll
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\bin\Debug\nunit.framework.xml
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\obj\Debug\TDD_StringChecker.Test.csproj.AssemblyReference.cache
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\obj\Debug\TDD_StringChecker.Test.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\obj\Debug\TDD_Stri.1580FDAF.Up2Date
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\obj\Debug\TDD_StringChecker.Test.dll
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\obj\Debug\TDD_StringChecker.Test.pdb
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\bin\Debug\TDD_StringCheckу.dll
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringChecker.Test\bin\Debug\TDD_StringCheckу.pdb

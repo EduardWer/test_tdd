@@ -1,0 +1,6 @@
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringCheckу\bin\Debug\TDD_StringCheckу.dll
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringCheckу\bin\Debug\TDD_StringCheckу.pdb
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringCheckу\obj\Debug\TDD_StringCheckу.csproj.AssemblyReference.cache
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringCheckу\obj\Debug\TDD_StringCheckу.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringCheckу\obj\Debug\TDD_StringCheckу.dll
+C:\Users\Eduard\RiderProjects\TDD_StringCheck\TDD_StringCheckу\obj\Debug\TDD_StringCheckу.pdb
